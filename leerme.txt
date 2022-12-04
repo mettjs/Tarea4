@@ -1,3 +1,4 @@
 Es posible que al momento de revisar esta tarea aparezcan alguno de los test como fallidos. 
 Esto se debe a que instagram me bloquea la computadora de logearme a instagram en algunas ocasiones al realizar el test multiples veces.
 Voy a reeiniciar la computadora para correr el test otra vez y que cargue el test report html correctamente
+Pero si desea confirmar el funcionamiento correcto de todos los test en el video se puede apreciar.
